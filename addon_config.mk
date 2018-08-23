@@ -60,7 +60,7 @@ common:
 	# a specific platform
 	# ADDON_LIBS_EXCLUDE =
 
-	ADDON_LIBS = /usr/local/Cellar/opencv/3.4.2/lib
+	# ADDON_LIBS = /usr/local/Cellar/opencv/3.4.2/lib
 
 
 linux64:
