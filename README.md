@@ -13,6 +13,7 @@ Installation
 3. Check if the following lines are correctly added to your Xcode Project file
 
 LINKER FLAGS 
+
 to create your own list use following line in your terminal:
 pkg-config --cflags --libs /usr/local/Cellar/opencv/3.4.2/lib/pkgconfig/opencv.pc
 
